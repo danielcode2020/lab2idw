@@ -42,7 +42,7 @@ $(document).ready(function(){
             </table>`;
             // inject html to 'page-content' of our app
             $("#page-content").html(read_one_product_html);
-            
+            //new for commit
             // chage page title
             changePageTitle("Create Book");
         });      
